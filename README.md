@@ -10,4 +10,4 @@
 * Corporate Finance
 * Research Methodology
 * Econometrics
-* Python
+* Python Lab I
