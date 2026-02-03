@@ -5,5 +5,9 @@
 
 *Second semester*
 
-* One
-* Two
+* Advanced Macroeconomics
+* SAPM
+* Corporate Finance
+* Research Methodology
+* Econometrics
+* Python
