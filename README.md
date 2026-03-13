@@ -1,7 +1,5 @@
 # Rafa Mariyam
-## KC
-
-**MSc. Econometrics and Fintech**
+## MSc. Econometrics and Fintech
 
 *Second semester*
 
